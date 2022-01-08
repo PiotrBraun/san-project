@@ -15,3 +15,4 @@ vpc_security_group_ids = [aws_security_group.rdssecure.id]
 publicly_accessible = false
 port = 3306
 }
+#tworzenie mysql
